@@ -1,0 +1,6 @@
+{
+  "installCommand": "cd unleashed-app && npm install",
+  "buildCommand": "cd unleashed-app && npm run build",
+  "outputDirectory": "unleashed-app/dist",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
