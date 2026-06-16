@@ -1,0 +1,1094 @@
+{
+  "program_name": "Unleashed Beginner - Vitaliy Feschuk",
+  "exercises": [
+    {
+      "id": "pull_ups",
+      "name": "Pull Ups",
+      "category": "pull",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0652",
+        "dataset_name": "pull-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0652-lBDjFxJ.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0652-lBDjFxJ.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Hang from a pull-up bar with your palms facing away from you and your arms fully extended.",
+          "Engage your core and squeeze your shoulder blades together.",
+          "Pull your body up towards the bar by bending your elbows and bringing your chest towards the bar.",
+          "Pause at the top of the movement, then slowly lower your body back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "chin_ups",
+      "name": "Chin Ups",
+      "category": "pull",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "1326",
+        "dataset_name": "chin-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/1326-T2mxWqc.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/1326-T2mxWqc.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Hang from a pull-up bar with your palms facing towards you and your hands shoulder-width apart.",
+          "Engage your core and pull your body up towards the bar, leading with your chest.",
+          "Continue pulling until your chin is above the bar.",
+          "Pause for a moment at the top, then slowly lower your body back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "close_grip_chin_ups",
+      "name": "Close Grip Chin Ups",
+      "category": "pull",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "1327",
+        "dataset_name": "close grip chin-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/1327-VnfUNW7.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/1327-VnfUNW7.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Grab the pull-up bar with your palms facing towards you and your hands shoulder-width apart.",
+          "Hang from the bar with your arms fully extended and your feet off the ground.",
+          "Engage your back muscles and pull your body up towards the bar, keeping your elbows close to your body.",
+          "Continue pulling until your chin is above the bar.",
+          "Pause for a moment at the top, then slowly lower your body back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "high_pull_ups",
+      "name": "High Pull Ups",
+      "category": "pull",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0652",
+        "dataset_name": "pull-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0652-lBDjFxJ.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0652-lBDjFxJ.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Hang from a pull-up bar with your palms facing away from you and your arms fully extended.",
+          "Engage your core and squeeze your shoulder blades together.",
+          "Pull your body up towards the bar by bending your elbows and bringing your chest towards the bar.",
+          "Pause at the top of the movement, then slowly lower your body back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "half_pull_ups",
+      "name": "Half Pull Ups",
+      "category": "pull",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0652",
+        "dataset_name": "pull-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0652-lBDjFxJ.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0652-lBDjFxJ.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Hang from a pull-up bar with your palms facing away from you and your arms fully extended.",
+          "Engage your core and squeeze your shoulder blades together.",
+          "Pull your body up towards the bar by bending your elbows and bringing your chest towards the bar.",
+          "Pause at the top of the movement, then slowly lower your body back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "australian_pull_ups",
+      "name": "Australian Pull Ups",
+      "category": "pull",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0499",
+        "dataset_name": "inverted row",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0499-bZGHsAZ.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0499-bZGHsAZ.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Set up a bar at waist height or use a suspension trainer.",
+          "Stand facing the bar or suspension trainer, with your feet shoulder-width apart.",
+          "Grab the bar or handles with an overhand grip, slightly wider than shoulder-width apart.",
+          "Lean back, keeping your body straight and your heels on the ground.",
+          "Pull your chest towards the bar or handles, squeezing your shoulder blades together.",
+          "Pause for a moment at the top, then slowly lower yourself back to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "australian_chin_ups",
+      "name": "Australian Chin Ups",
+      "category": "pull",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0499",
+        "dataset_name": "inverted row",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0499-bZGHsAZ.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0499-bZGHsAZ.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Set up a bar at waist height or use a suspension trainer.",
+          "Stand facing the bar or suspension trainer, with your feet shoulder-width apart.",
+          "Grab the bar or handles with an overhand grip, slightly wider than shoulder-width apart.",
+          "Lean back, keeping your body straight and your heels on the ground.",
+          "Pull your chest towards the bar or handles, squeezing your shoulder blades together.",
+          "Pause for a moment at the top, then slowly lower yourself back to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "scapular_pulls",
+      "name": "Scapular Pulls",
+      "category": "pull",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0688",
+        "dataset_name": "scapular pull-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0688-uTBt1HV.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0688-uTBt1HV.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start by hanging from a pull-up bar with your palms facing away from you and your arms fully extended.",
+          "Retract your shoulder blades by pulling them down and back.",
+          "Engage your back muscles and pull your body up towards the bar, focusing on squeezing your shoulder blades together.",
+          "Pause for a moment at the top of the movement, then slowly lower your body back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "trx_y_pulls",
+      "name": "TRX Y Pulls",
+      "category": "pull",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "1017",
+        "dataset_name": "band y-raise",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/1017-aHDy5O5.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/1017-aHDy5O5.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Stand with your feet shoulder-width apart and hold the band in front of your thighs with your palms facing inwards.",
+          "Keep your arms straight and lift them up and out to the sides, forming a 'Y' shape with your body.",
+          "Squeeze your shoulder blades together at the top of the movement.",
+          "Slowly lower your arms back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "push_ups",
+      "name": "Push Ups",
+      "category": "push",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0662",
+        "dataset_name": "push-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0662-I4hDWkc.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0662-I4hDWkc.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start in a high plank position with your hands slightly wider than shoulder-width apart and your feet together.",
+          "Engage your core and lower your body towards the ground by bending your elbows, keeping your body in a straight line.",
+          "Pause for a moment when your chest is just above the ground, then push yourself back up to the starting position by straightening your arms.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "triceps_push_ups",
+      "name": "Triceps Push Ups",
+      "category": "push",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "1701",
+        "dataset_name": "medicine ball close grip push up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/1701-8K7m2SS.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/1701-8K7m2SS.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start in a high plank position with your hands on the medicine ball, shoulder-width apart.",
+          "Lower your body towards the ground by bending your elbows, keeping them close to your sides.",
+          "Push back up to the starting position, fully extending your arms.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "pike_push_ups",
+      "name": "Pike Push Ups",
+      "category": "push",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "1296",
+        "dataset_name": "exercise ball pike push up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/1296-sVvXT5J.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/1296-sVvXT5J.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start in a push-up position with your hands on the floor and your shins resting on the stability ball.",
+          "Engage your core and lift your hips up towards the ceiling, rolling the ball towards your hands.",
+          "Keep your legs straight and your body in a pike position, forming an inverted V shape.",
+          "Bend your elbows and lower your upper body towards the floor, keeping your head in line with your hands.",
+          "Push through your hands and extend your arms to return to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "push_ups_bottom_pause",
+      "name": "Push Ups with Bottom Pause",
+      "category": "push",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0662",
+        "dataset_name": "push-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0662-I4hDWkc.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0662-I4hDWkc.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start in a high plank position with your hands slightly wider than shoulder-width apart and your feet together.",
+          "Engage your core and lower your body towards the ground by bending your elbows, keeping your body in a straight line.",
+          "Pause for a moment when your chest is just above the ground, then push yourself back up to the starting position by straightening your arms.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "push_ups_half_handstand",
+      "name": "Push Ups in Half Handstand",
+      "category": "push",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0471",
+        "dataset_name": "handstand push-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0471-rQxwMxO.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0471-rQxwMxO.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Find a wall and face away from it, standing a few feet away.",
+          "Place your hands on the ground shoulder-width apart and kick your feet up against the wall, coming into a handstand position.",
+          "Bend your elbows and lower your head towards the ground, keeping your body in a straight line.",
+          "Push through your hands and extend your arms to return to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "dips_parallel_bars",
+      "name": "Dips on Parallel Bars",
+      "category": "push",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0251",
+        "dataset_name": "chest dip",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0251-9WTm7dq.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0251-9WTm7dq.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Position yourself on parallel bars with your arms fully extended and your body straight.",
+          "Lower your body by bending your elbows until your shoulders are below your elbows.",
+          "Push yourself back up to the starting position by straightening your arms.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "bar_dips",
+      "name": "Bar Dips",
+      "category": "push",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0814",
+        "dataset_name": "triceps dip",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0814-X6C6i5Y.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0814-X6C6i5Y.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Sit on the edge of a bench or chair with your hands gripping the edge, fingers pointing forward.",
+          "Slide your butt off the bench, supporting your weight with your hands.",
+          "Bend your elbows and lower your body towards the ground, keeping your back close to the bench.",
+          "Pause for a moment at the bottom, then push yourself back up to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "dip_negatives",
+      "name": "Dip Negatives with Bottom Pause",
+      "category": "push",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0251",
+        "dataset_name": "chest dip",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0251-9WTm7dq.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0251-9WTm7dq.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Position yourself on parallel bars with your arms fully extended and your body straight.",
+          "Lower your body by bending your elbows until your shoulders are below your elbows.",
+          "Push yourself back up to the starting position by straightening your arms.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "tricep_extension",
+      "name": "Tricep Extension",
+      "category": "push",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0061",
+        "dataset_name": "barbell lying triceps extension",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0061-iZop9xO.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0061-iZop9xO.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Lie flat on a bench with your feet flat on the ground and your head at the end of the bench.",
+          "Hold the barbell with an overhand grip, hands shoulder-width apart, and extend your arms straight up over your chest.",
+          "Keeping your upper arms stationary, slowly lower the barbell towards your forehead by bending your elbows.",
+          "Pause for a moment at the bottom, then extend your arms back up to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "handstand_wall",
+      "name": "Handstand (Wall)",
+      "category": "skill",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "3302",
+        "dataset_name": "handstand",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/3302-XooAdhl.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/3302-XooAdhl.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Find an open space with enough room to perform a handstand.",
+          "Place your hands on the ground shoulder-width apart, fingers pointing forward.",
+          "Kick your legs up towards the wall, using your core and shoulders to maintain balance.",
+          "Once in a handstand position, engage your triceps to support your body weight.",
+          "Hold the handstand for as long as you can maintain balance.",
+          "To come down, slowly lower your legs back to the ground.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "handstand_push_ups",
+      "name": "Handstand Push Ups",
+      "category": "push",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0471",
+        "dataset_name": "handstand push-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0471-rQxwMxO.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0471-rQxwMxO.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Find a wall and face away from it, standing a few feet away.",
+          "Place your hands on the ground shoulder-width apart and kick your feet up against the wall, coming into a handstand position.",
+          "Bend your elbows and lower your head towards the ground, keeping your body in a straight line.",
+          "Push through your hands and extend your arms to return to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "handstand_push_ups_wall",
+      "name": "Handstand Push Ups (Wall)",
+      "category": "push",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0471",
+        "dataset_name": "handstand push-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0471-rQxwMxO.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0471-rQxwMxO.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Find a wall and face away from it, standing a few feet away.",
+          "Place your hands on the ground shoulder-width apart and kick your feet up against the wall, coming into a handstand position.",
+          "Bend your elbows and lower your head towards the ground, keeping your body in a straight line.",
+          "Push through your hands and extend your arms to return to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "muscle_ups",
+      "name": "Muscle Ups",
+      "category": "skill",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0631",
+        "dataset_name": "muscle up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0631-yJUHKTn.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0631-yJUHKTn.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start by hanging from a pull-up bar with your palms facing away from you and your arms fully extended.",
+          "Engage your core and pull your body up towards the bar, leading with your chest.",
+          "As you reach the top of the movement, transition your grip so that your palms are facing towards you.",
+          "Continue pulling yourself up until your chest is above the bar and your arms are fully flexed.",
+          "Reverse the movement by slowly lowering yourself back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "elbow_plank",
+      "name": "Elbow Plank",
+      "category": "core",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0464",
+        "dataset_name": "front plank with twist",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0464-CosupLu.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0464-CosupLu.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to toe.",
+          "Engage your core and glutes to maintain a stable position.",
+          "Rotate your torso to the right, lifting your right arm and extending it towards the ceiling.",
+          "Keep your hips and legs stable as you twist.",
+          "Hold for a moment, then return to the starting position.",
+          "Repeat the twist on the left side.",
+          "Continue alternating sides for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "high_plank",
+      "name": "High Plank",
+      "category": "core",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0662",
+        "dataset_name": "push-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0662-I4hDWkc.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0662-I4hDWkc.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start in a high plank position with your hands slightly wider than shoulder-width apart and your feet together.",
+          "Engage your core and lower your body towards the ground by bending your elbows, keeping your body in a straight line.",
+          "Pause for a moment when your chest is just above the ground, then push yourself back up to the starting position by straightening your arms.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "high_plank_elbow_plank_combo",
+      "name": "High Plank + Elbow Plank",
+      "category": "core",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0464",
+        "dataset_name": "front plank with twist",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0464-CosupLu.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0464-CosupLu.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to toe.",
+          "Engage your core and glutes to maintain a stable position.",
+          "Rotate your torso to the right, lifting your right arm and extending it towards the ceiling.",
+          "Keep your hips and legs stable as you twist.",
+          "Hold for a moment, then return to the starting position.",
+          "Repeat the twist on the left side.",
+          "Continue alternating sides for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "l_sit_parallel_bars",
+      "name": "L-Sit on Parallel Bars",
+      "category": "core",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "3419",
+        "dataset_name": "l-sit on floor",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/3419-UpWmA5E.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/3419-UpWmA5E.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Sit on the floor with your legs extended in front of you.",
+          "Place your hands on the floor beside your hips, fingers pointing forward.",
+          "Engage your core and lift your legs off the ground, keeping them straight.",
+          "Try to bring your legs parallel to the floor, forming an 'L' shape with your body.",
+          "Hold this position for as long as you can.",
+          "Slowly lower your legs back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "hanging_knee_raises",
+      "name": "Hanging Knee Raises",
+      "category": "core",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0472",
+        "dataset_name": "hanging leg raise",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0472-I3tsCnC.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0472-I3tsCnC.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Hang from a pull-up bar with your arms fully extended and your palms facing away from you.",
+          "Engage your core and lift your legs up in front of you, keeping them straight.",
+          "Continue lifting until your legs are parallel to the ground or as high as you can comfortably go.",
+          "Pause for a moment at the top, then slowly lower your legs back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "squats",
+      "name": "Squats",
+      "category": "legs",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "1685",
+        "dataset_name": "squat to overhead reach",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/1685-QChZi3x.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/1685-QChZi3x.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Stand with your feet shoulder-width apart and toes slightly turned out.",
+          "Lower your body down into a squat position by bending your knees and pushing your hips back.",
+          "As you come up from the squat, extend your arms overhead, reaching towards the ceiling.",
+          "Return to the starting position by lowering your arms and bending your knees to squat down again.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "slow_squats_legs_together",
+      "name": "Slow Squats (Legs Together)",
+      "category": "legs",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "1685",
+        "dataset_name": "squat to overhead reach",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/1685-QChZi3x.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/1685-QChZi3x.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Stand with your feet shoulder-width apart and toes slightly turned out.",
+          "Lower your body down into a squat position by bending your knees and pushing your hips back.",
+          "As you come up from the squat, extend your arms overhead, reaching towards the ceiling.",
+          "Return to the starting position by lowering your arms and bending your knees to squat down again.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "barbell_squats",
+      "name": "Barbell Squats",
+      "category": "legs",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0043",
+        "dataset_name": "barbell full squat",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0043-qXTaZnJ.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0043-qXTaZnJ.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Stand with your feet shoulder-width apart, toes slightly turned out.",
+          "Hold the barbell across your upper back, resting it on your traps or rear delts.",
+          "Engage your core and keep your chest up as you begin to lower your body down.",
+          "Bend at the knees and hips, pushing your hips back and down as if sitting into a chair.",
+          "Lower yourself until your thighs are parallel to the ground or slightly below.",
+          "Keep your knees in line with your toes and your weight in your heels.",
+          "Drive through your heels to stand back up, extending your hips and knees.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "jump_squat",
+      "name": "Jump Squat",
+      "category": "legs",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0514",
+        "dataset_name": "jump squat",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0514-LIlE5Tn.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0514-LIlE5Tn.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Stand with your feet shoulder-width apart.",
+          "Lower your body into a squat position by bending your knees and pushing your hips back.",
+          "Jump explosively off the ground, extending your hips, knees, and ankles.",
+          "While in mid-air, quickly bring your arms forward for balance.",
+          "Land softly on the balls of your feet and immediately go into the next repetition.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "jump_squats",
+      "name": "Jump Squats",
+      "category": "legs",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0514",
+        "dataset_name": "jump squat",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0514-LIlE5Tn.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0514-LIlE5Tn.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Stand with your feet shoulder-width apart.",
+          "Lower your body into a squat position by bending your knees and pushing your hips back.",
+          "Jump explosively off the ground, extending your hips, knees, and ankles.",
+          "While in mid-air, quickly bring your arms forward for balance.",
+          "Land softly on the balls of your feet and immediately go into the next repetition.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "lunges",
+      "name": "Lunges",
+      "category": "legs",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "3470",
+        "dataset_name": "forward lunge (male)",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/3470-kMzUs9Y.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/3470-kMzUs9Y.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Stand with your feet hip-width apart and hands on your hips.",
+          "Take a big step forward with your right foot, lowering your body into a lunge position.",
+          "Bend your right knee to about 90 degrees, keeping your knee aligned with your ankle.",
+          "Push off with your right foot and return to the starting position.",
+          "Repeat with your left leg, alternating sides for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "walking_lunges",
+      "name": "Walking Lunges",
+      "category": "legs",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "1460",
+        "dataset_name": "walking lunge",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/1460-IZVHb27.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/1460-IZVHb27.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Stand with your feet shoulder-width apart.",
+          "Take a step forward with your right leg, lowering your body into a lunge position.",
+          "Keep your torso upright and your front knee aligned with your ankle.",
+          "Push off with your right foot and bring your left foot forward, stepping into a lunge position with your left leg.",
+          "Continue alternating legs and walking forward, maintaining a controlled and steady pace.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "box_jump",
+      "name": "Box Jump",
+      "category": "legs",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "1374",
+        "dataset_name": "box jump down with one leg stabilization",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/1374-iPm26QU.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/1374-iPm26QU.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Stand in front of a box or platform with your feet shoulder-width apart.",
+          "Bend your knees and jump onto the box, landing softly with one foot on the box and the other foot hanging off the edge.",
+          "Stabilize yourself on the box with the foot that is on it, while keeping the other foot off the ground.",
+          "Hold this position for a few seconds, engaging your calf muscles to maintain balance.",
+          "Slowly step down with the foot that is on the box, returning to the starting position.",
+          "Repeat the exercise with the other leg."
+        ]
+      }
+    },
+    {
+      "id": "deadlift",
+      "name": "Deadlift",
+      "category": "legs",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0032",
+        "dataset_name": "barbell deadlift",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0032-ila4NZS.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0032-ila4NZS.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Stand with your feet shoulder-width apart and the barbell on the ground in front of you.",
+          "Bend your knees and hinge at the hips to lower your torso and grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+          "Keep your back straight and chest lifted as you drive through your heels to lift the barbell off the ground, extending your hips and knees.",
+          "As you stand up straight, squeeze your glutes and keep your core engaged.",
+          "Lower the barbell back down to the ground by bending at the hips and knees, keeping your back straight.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "burpee",
+      "name": "Burpee",
+      "category": "full_body",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "1160",
+        "dataset_name": "burpee",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/1160-dK9394r.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/1160-dK9394r.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start in a standing position with your feet shoulder-width apart.",
+          "Lower your body into a squat position by bending your knees and placing your hands on the floor in front of you.",
+          "Kick your feet back into a push-up position.",
+          "Perform a push-up, keeping your body in a straight line.",
+          "Jump your feet back into the squat position.",
+          "Jump up explosively, reaching your arms overhead.",
+          "Land softly and immediately lower back into a squat position to begin the next repetition."
+        ]
+      }
+    },
+    {
+      "id": "dead_hang",
+      "name": "Dead Hang",
+      "category": "hang",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0652",
+        "dataset_name": "pull-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0652-lBDjFxJ.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0652-lBDjFxJ.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Hang from a pull-up bar with your palms facing away from you and your arms fully extended.",
+          "Engage your core and squeeze your shoulder blades together.",
+          "Pull your body up towards the bar by bending your elbows and bringing your chest towards the bar.",
+          "Pause at the top of the movement, then slowly lower your body back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "dead_hang_scapular",
+      "name": "Dead Hang (Scapular Engagement)",
+      "category": "hang",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0688",
+        "dataset_name": "scapular pull-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0688-uTBt1HV.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0688-uTBt1HV.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start by hanging from a pull-up bar with your palms facing away from you and your arms fully extended.",
+          "Retract your shoulder blades by pulling them down and back.",
+          "Engage your back muscles and pull your body up towards the bar, focusing on squeezing your shoulder blades together.",
+          "Pause for a moment at the top of the movement, then slowly lower your body back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "dead_hang_squeezed",
+      "name": "Dead Hang with Squeezed Shoulder Blades",
+      "category": "hang",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0688",
+        "dataset_name": "scapular pull-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0688-uTBt1HV.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0688-uTBt1HV.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start by hanging from a pull-up bar with your palms facing away from you and your arms fully extended.",
+          "Retract your shoulder blades by pulling them down and back.",
+          "Engage your back muscles and pull your body up towards the bar, focusing on squeezing your shoulder blades together.",
+          "Pause for a moment at the top of the movement, then slowly lower your body back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "chin_over_bar_hold",
+      "name": "Chin Over Bar Hold",
+      "category": "hang",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "1326",
+        "dataset_name": "chin-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/1326-T2mxWqc.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/1326-T2mxWqc.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Hang from a pull-up bar with your palms facing towards you and your hands shoulder-width apart.",
+          "Engage your core and pull your body up towards the bar, leading with your chest.",
+          "Continue pulling until your chin is above the bar.",
+          "Pause for a moment at the top, then slowly lower your body back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "chin_over_bar_hang",
+      "name": "Chin Over Bar Hang",
+      "category": "hang",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "1326",
+        "dataset_name": "chin-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/1326-T2mxWqc.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/1326-T2mxWqc.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Hang from a pull-up bar with your palms facing towards you and your hands shoulder-width apart.",
+          "Engage your core and pull your body up towards the bar, leading with your chest.",
+          "Continue pulling until your chin is above the bar.",
+          "Pause for a moment at the top, then slowly lower your body back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "shoulder_blade_squeeze_hang",
+      "name": "Shoulder Blade Squeeze While Hanging",
+      "category": "pull",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0688",
+        "dataset_name": "scapular pull-up",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0688-uTBt1HV.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0688-uTBt1HV.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start by hanging from a pull-up bar with your palms facing away from you and your arms fully extended.",
+          "Retract your shoulder blades by pulling them down and back.",
+          "Engage your back muscles and pull your body up towards the bar, focusing on squeezing your shoulder blades together.",
+          "Pause for a moment at the top of the movement, then slowly lower your body back down to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "front_lever_closed",
+      "name": "Closed Front Lever",
+      "category": "skill",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "3296",
+        "dataset_name": "front lever",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/3296-PkCN2lv.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/3296-PkCN2lv.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start by hanging from a pull-up bar with an overhand grip, hands shoulder-width apart.",
+          "Engage your core and pull your shoulder blades down and back.",
+          "Bend your knees and tuck them towards your chest.",
+          "Simultaneously, lift your legs up and extend them straight out in front of you, keeping your body parallel to the ground.",
+          "Hold this position for as long as you can, aiming for a full front lever position.",
+          "To release, slowly lower your legs back down and return to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "front_lever_30_deg",
+      "name": "Front Lever (30 Degrees)",
+      "category": "skill",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "3296",
+        "dataset_name": "front lever",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/3296-PkCN2lv.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/3296-PkCN2lv.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start by hanging from a pull-up bar with an overhand grip, hands shoulder-width apart.",
+          "Engage your core and pull your shoulder blades down and back.",
+          "Bend your knees and tuck them towards your chest.",
+          "Simultaneously, lift your legs up and extend them straight out in front of you, keeping your body parallel to the ground.",
+          "Hold this position for as long as you can, aiming for a full front lever position.",
+          "To release, slowly lower your legs back down and return to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "body_lift_front_lever",
+      "name": "Body Lift into Front Lever",
+      "category": "skill",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "3296",
+        "dataset_name": "front lever",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/3296-PkCN2lv.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/3296-PkCN2lv.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start by hanging from a pull-up bar with an overhand grip, hands shoulder-width apart.",
+          "Engage your core and pull your shoulder blades down and back.",
+          "Bend your knees and tuck them towards your chest.",
+          "Simultaneously, lift your legs up and extend them straight out in front of you, keeping your body parallel to the ground.",
+          "Hold this position for as long as you can, aiming for a full front lever position.",
+          "To release, slowly lower your legs back down and return to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "closed_planche",
+      "name": "Closed Planche",
+      "category": "skill",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "3301",
+        "dataset_name": "frog planche",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/3301-rQhGcin.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/3301-rQhGcin.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start in a push-up position with your hands shoulder-width apart and your feet together.",
+          "Bend your elbows and lower your body towards the ground, keeping your back straight.",
+          "As you lower your body, lift your feet off the ground and bring your knees towards your chest.",
+          "Hold this position for a few seconds, then extend your legs back out and push yourself back up to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "cardio",
+      "name": "Cardio (Running/Walking/Swimming)",
+      "category": "conditioning",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0685",
+        "dataset_name": "run",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0685-oLrKqDH.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0685-oLrKqDH.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start by standing upright with your feet hip-width apart.",
+          "Engage your core and keep your upper body relaxed.",
+          "Begin jogging in place, lifting your knees up towards your chest and landing softly on the balls of your feet.",
+          "Maintain a steady pace and continue jogging for the desired duration or distance.",
+          "Remember to breathe deeply and maintain good posture throughout the exercise."
+        ]
+      }
+    },
+    {
+      "id": "morning_cardio",
+      "name": "Morning Cardio",
+      "category": "conditioning",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0685",
+        "dataset_name": "run",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0685-oLrKqDH.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0685-oLrKqDH.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start by standing upright with your feet hip-width apart.",
+          "Engage your core and keep your upper body relaxed.",
+          "Begin jogging in place, lifting your knees up towards your chest and landing softly on the balls of your feet.",
+          "Maintain a steady pace and continue jogging for the desired duration or distance.",
+          "Remember to breathe deeply and maintain good posture throughout the exercise."
+        ]
+      }
+    },
+    {
+      "id": "running",
+      "name": "Running",
+      "category": "conditioning",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "0685",
+        "dataset_name": "run",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/0685-oLrKqDH.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/0685-oLrKqDH.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start by standing upright with your feet hip-width apart.",
+          "Engage your core and keep your upper body relaxed.",
+          "Begin jogging in place, lifting your knees up towards your chest and landing softly on the balls of your feet.",
+          "Maintain a steady pace and continue jogging for the desired duration or distance.",
+          "Remember to breathe deeply and maintain good posture throughout the exercise."
+        ]
+      }
+    },
+    {
+      "id": "stretching",
+      "name": "Stretching",
+      "category": "recovery",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "1405",
+        "dataset_name": "back pec stretch",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/1405-chfnQnM.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/1405-chfnQnM.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Stand tall with your feet shoulder-width apart.",
+          "Extend your arms straight out in front of you, parallel to the ground.",
+          "Cross your arms in front of your body, with your right arm over your left arm.",
+          "Interlock your fingers and rotate your palms away from your body.",
+          "Slowly raise your arms up and away from your body, feeling a stretch in your back and chest.",
+          "Hold the stretch for 15-30 seconds, then release.",
+          "Repeat on the opposite side."
+        ]
+      }
+    },
+    {
+      "id": "foam_rolling",
+      "name": "Massage / Foam Rolling (Grid Roller)",
+      "category": "recovery",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "2208",
+        "dataset_name": "roller back stretch",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/2208-isofgzg.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/2208-isofgzg.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start by sitting on the ground with your legs extended in front of you.",
+          "Place the roller perpendicular to your body, just below your glutes.",
+          "Slowly roll your body backwards, allowing the roller to move up your back.",
+          "Continue rolling until the roller reaches your upper back.",
+          "Pause for a moment, then slowly roll back to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    },
+    {
+      "id": "warmup_roller",
+      "name": "Warm-up with Grid Roller",
+      "category": "recovery",
+      "media": {
+        "source": "exercises-dataset",
+        "dataset_id": "2208",
+        "dataset_name": "roller back stretch",
+        "gif_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/videos/2208-isofgzg.gif",
+        "thumbnail_url": "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main/images/2208-isofgzg.jpg",
+        "match_confidence": "manual",
+        "instructions": [
+          "Start by sitting on the ground with your legs extended in front of you.",
+          "Place the roller perpendicular to your body, just below your glutes.",
+          "Slowly roll your body backwards, allowing the roller to move up your back.",
+          "Continue rolling until the roller reaches your upper back.",
+          "Pause for a moment, then slowly roll back to the starting position.",
+          "Repeat for the desired number of repetitions."
+        ]
+      }
+    }
+  ]
+}

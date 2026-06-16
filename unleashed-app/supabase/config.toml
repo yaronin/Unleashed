@@ -1,0 +1,8 @@
+# Supabase local development (optional)
+# Install CLI: https://supabase.com/docs/guides/cli
+
+[project]
+id = "unleashed-beginner"
+
+[functions.admin-delete-user]
+verify_jwt = false
